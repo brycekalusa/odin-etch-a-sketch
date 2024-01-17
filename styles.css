@@ -1,0 +1,23 @@
+* {
+    text-align: center;
+    align-content: center;
+}
+
+input {
+    width: 40px;
+}
+
+#grid-container {
+    display: grid;
+    margin: auto;
+    margin-top: 10px;
+    height: 600px;
+    width: 600px;
+    border: 5px solid black;
+}
+
+.grid-cell {
+    border: 1px solid black;
+}
+
+
